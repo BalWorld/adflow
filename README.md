@@ -2,4 +2,4 @@
 Personalized marketing and Targeted Advertising Platform | Php MySql
 www.balworld.in | Project Head : Bal Sankar E
 
-![Screenshot](Adflow.jpg)
+![Optional Text](../master/Adflow.jpg)
