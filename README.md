@@ -7,8 +7,9 @@ www.balworld.in | Project Head : Bal Sankar E
 AdFlow is a Ad Platform for Personalized marketing and Targeted Advertising, Created using Php/Html/MySql
 
 View Demo : www.balworld.in/adflow
+***
 
-   Administrator        |
+   Administrator Login  |
    ---------------------|
    **Username** : admin |
    **Password** : admin |
