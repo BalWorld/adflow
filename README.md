@@ -8,8 +8,6 @@ AdFlow is a Ad Platform for Personalized marketing and Targeted Advertising, Cre
 
 View Demo : www.balworld.in/adflow
 
-/*-----------------*/
 Administrator 
 username: balzankar
 password: Admin
-/*-----------------*/
